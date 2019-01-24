@@ -40,10 +40,11 @@
       clientSecret: '19e0a794dc43a3e2964751435b15f06c4ee24d56',
       repo: 'study-notes',
       owner: 'pycainiao',
-      id: 'DEMO',
-      admin: ['pycainiaos'],
+      id: window.location.pathname,
+      admin: ['pycainiao'],
       // facebook-like distraction free mode
-      distractionFreeMode: false
+      distractionFreeMode: false,
+      createIssueManually :true
     })
     gitalk.render('gitalk-container');
   </script>
