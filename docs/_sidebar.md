@@ -1,5 +1,9 @@
-* [说明](/directions)
-* [关于JS](/about_js/js)
-* 关于docsify
-  * [关于docsify](/about_docsity/docsity)
-
+* [说明](/)
+* js相关
+    - [js基础](js/baseJs)
+* css相关
+  * [css基础](css/baseCSS)
+* vue相关
+    * [vue基础](vue/baseVue)
+* react相关
+     * [react基础](react/baseReact)
