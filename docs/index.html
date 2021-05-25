@@ -7,6 +7,8 @@
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
 
     <!-- 加载评论用的插件 -->
     <!--<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">-->
@@ -31,7 +33,7 @@
         alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
         },
-        subMaxLevel: 2,
+        subMaxLevel: 3,
         loadNavbar: false,
         name: '<h5>目录</h5>',
         search: {
@@ -41,7 +43,8 @@
             noData: '找不到结果',
             depth: 3,
             paths: 'auto',
-        }
+        },
+        sidebarDisplayLevel: 1,
     }
     // let gitalk = new Gitalk({
     //     clientID: '593193498a1fd8701852',
@@ -58,5 +61,8 @@
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<!--折叠插件-->
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
 </body>
 </html>

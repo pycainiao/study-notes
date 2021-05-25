@@ -1,10 +1,8 @@
 # 说点什么呢
 
-> **我说来不及,你就不学了吗?**
->
-> 要不是多看了聚聚们的发言,也不会走上撸代码这条路,怎么说呢,虽然比较曲折,但是,也算在路上了
->
-> **要对未来有信心,对现在有耐心**
+> 冲冲冲
 
 
+
+![image-20210525170959536](https://raw.githubusercontent.com/pycainiao/open-car-talk/main/kye/image-20210525170959536.png?token=AFAZ6N5W2L3V5PPGVI7QI33AVS7SM)
 
