@@ -3,9 +3,9 @@
     - [js基础](js/baseJs)
 - css相关
   - [css基础](css/baseCSS)
-- vue相关
-    - [vue基础](vue/baseVue)
-    - [个人源码学习记录](vue/源码学习记录/README.md)
+- vue源码学习记录
+    - [准备工作](vue/准备工作/README.md)
+    - [文章目录例子](vue/源码学习记录/README.md)
 - react相关
      - [react基础](react/baseReact)
 
